@@ -1,4 +1,4 @@
-# Hunt Digital Media – Data Analytics Assignment
+# Mobile App Traffic Data – Data Analytics Project
 
 ### By-
 **Nafisa Ansari**
