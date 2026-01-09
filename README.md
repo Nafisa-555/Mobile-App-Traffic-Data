@@ -1,4 +1,4 @@
-# Mobile App Traffic Data – Data Analytics Project
+# Mobile App Traffic Data 
 
 ### By-
 **Nafisa Ansari**
